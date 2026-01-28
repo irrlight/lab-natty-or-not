@@ -16,7 +16,7 @@ Foi utilizado o ChatGPT para gerar o texto primário com base nas ideias inserid
 ## Resultados
 Com essas duas ferramentas de IA foi possível gerar um texto base, um resumo e um avatar realista de forma gratuita e rápida, com poucos cliques e ajustes. Um video curto e que tras uma informação pouco observada.
 
-[https://github.com/irrlight/lab-natty-or-not/blob/main/projeto%20-%20DIO.mp4]()
+[[LINK PARA O VÍDEO AQUI](https://github.com/irrlight/lab-natty-or-not/blob/main/projeto%20-%20DIO.mp4)]()
 
 ## Reflexão
 Esse projeto serviu para que, de forma clara, vissimos como é rapido e facil criar um avatar realista sem muito esforço, algo que pode ser benéfico quando maléfico a depender de quem está utilizando tais ferramentas. É importante a concientização das pessoas menos informadas para que não caiam em golpes que usam IA.
