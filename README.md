@@ -1,7 +1,7 @@
 
 
 # Titulo
-Tecnologia, Inteligência Artificial e Acessibilidade
+**Tecnologia, Inteligência Artificial e Acessibilidade**
 
 ## Descrição 
 Este vídeo mostra de forma clara a potência que uma IA tem diante de algumas informações básicas e como pode ser de grande apoio na criação de conteúdo.
