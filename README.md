@@ -21,5 +21,5 @@ Com essas duas ferramentas de IA, foi possível gerar um texto base, um resumo e
 ## Reflexão
 Esse projeto serviu para que, de forma clara, víssemos como é rápido e fácil criar um avatar realista sem muito esforço, algo que pode ser benéfico ou maléfico, a depender de quem está utilizando tais ferramentas. É importante a conscientização das pessoas menos informadas para que não caiam em golpes que utilizam IA.
 
-E aí, o vídeo ficou Natty ou Not?
+E aí, o vídeo ficou natural ou fake natty?
 
